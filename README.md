@@ -1,4 +1,4 @@
-DigitalExposome Mental Health Classifier
+ Mental Health Status Analysis
 
 Project Description
 
