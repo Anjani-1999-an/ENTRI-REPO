@@ -1,5 +1,7 @@
 DigitalExposome Mental Health Classifier
+
 Project Description
+
 This project is an interactive web application that uses the DigitalExposome dataset to train, compare, and visualize multiple machine learning models for mental health state classification. It enables users to upload their own data, automatically preprocess it, and identify the best-performing model for predicting mental health categories based on physiological and environmental sensor features.
 
 - Dataset
